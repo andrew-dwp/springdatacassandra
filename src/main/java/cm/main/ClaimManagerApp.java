@@ -30,6 +30,6 @@ public class ClaimManagerApp implements CommandLineRunner {
     }
 
     public static void main(String[] args) {
-        SpringApplication.run(ClaimManagerApp.class, args);
+        SpringApplication.run(ClaimManagerApp.class, args).close();
     }
 }
