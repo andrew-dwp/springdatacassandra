@@ -1,0 +1,5 @@
+cm/model/ClaimRevision.class
+cm/service/ClaimRevisionManager.class
+cm/main/ClaimManagerApp.class
+cm/repository/ClaimRevisionRepository.class
+cm/config/CassandraConfig.class
